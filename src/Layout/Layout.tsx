@@ -17,7 +17,7 @@ const Layout = ({ children }: LayoutProps) => {
       }}
     >
       {/* Background Pattern */}
-      <div className="absolute left-0">
+      <div className="fixed left-0">
         <TopImg />
       </div>
 
