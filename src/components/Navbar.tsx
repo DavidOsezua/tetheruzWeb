@@ -66,7 +66,7 @@ const Navbar: React.FC = () => {
             onClick={() => scrollToSection("/download")}
             className="text-[#F8F8F8] hover:text-white transition-colors"
           >
-            <a href="https://Tetheruz.ae/login?o=0">Vist Dashboard</a>
+            <a href="https://tetheruz.com/login">Vist Dashboard</a>
           </button>
           <NavLink
             to="/policy"
@@ -82,7 +82,7 @@ const Navbar: React.FC = () => {
             sectionId === "download" ? "" : "font-semibold"
           }`}
         >
-          <a href="https://Tetheruz.ae/signup">Get Started</a>
+          <a href="https://tetheruz.com/signup">Get Started</a>
         </button>
 
         {/* Mobile Hamburger - Only show on mobile/tablet, hidden on desktop */}

@@ -60,7 +60,7 @@ const MobileMenu: React.FC<{
         {/* CTA Button */}
         <div className="mt-auto pb-8">
           <button className="w-full text-white bg-[#3B3D50] px-6 py-4 rounded-lg text-lg transition-colors">
-            <a href="https://Tetheruz.ae/signup">Get Started now</a>
+            <a href="https://tetheruz.com/login">Get Started now</a>
           </button>
         </div>
       </div>
